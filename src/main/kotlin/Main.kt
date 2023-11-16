@@ -7,14 +7,14 @@
 
 fun main() {
 
-    println("Bitte gib einen Zahlenwert als Text ein:")
+    println("Please enter a numerical value as text:")
     val zahlString: String = readln()
     try {
         val zahlInt: Int = zahlString.toInt()
-        println("Die eingegebene Zahl als Integer: $zahlInt")
+        println("The number entered as an integer: $zahlInt")
 
     } catch (e: Exception) {
-        println("Fehler: Die Eingabe '$zahlString' konnte nicht in eine Zahl umgewandelt werden.")
+        println("Error: The input '$zahlString' could not be converted to a number.")
     }
 
 }
