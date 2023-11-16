@@ -1,5 +1,5 @@
 //Benutze für folgende Aufgabe das Try&Catch Prinzip.
-//Erstelle eine Variable  Zahlstring vom Typ String und initialisiere sie  mit  einem Zahlenwert mittels readln().
+//Erstelle eine Variable Zahlstring vom Typ String und initialisiere sie mit einem Zahlenwert mittels readln().
 // Wichtig ist, dass der Zahlenwert als Text geschrieben wird als eins, zwei, zehn usw.
 //Erstelle einen neue Variabel ZahlInt vom Typ Int und gebe ihr den Wert den du per readln() eingegeben hast.
 //Fange in einem Catch Block die Exception ab und schreibe in eine Println warum es zu dieser Exception gekommen ist.
